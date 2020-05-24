@@ -9,3 +9,4 @@ Here are the resources from my Numerical Methods in Engineering & Science that t
 <a href="https://github.com/LucasJezap/MOWNiT/blob/master/Report7.pdf"> Report 7  
 <a href="https://github.com/LucasJezap/MOWNiT/blob/master/Report8.pdf"> Report 8  
 <a href="https://github.com/LucasJezap/MOWNiT/blob/master/Report9.pdf"> Report 9  
+<a href="https://github.com/LucasJezap/MOWNiT/blob/master/Report10.pdf"> Report 10  
